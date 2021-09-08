@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"","characterIndex":5,"characterName":"!Flame","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"SVBattlerUnicorn","characterIndex":1,"characterName":"black and white unicorns","classId":1,"equips":[],"faceIndex":4,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Einhorn","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"SVGBattlerPinguin","characterIndex":0,"characterName":"penguins","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pinguin","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"SVGBattlerDrache","characterIndex":6,"characterName":"small_flyingbabydragon","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Drachenbaby","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
-]
